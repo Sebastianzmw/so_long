@@ -1,0 +1,6 @@
+*.o
+*.a
+.DS_Store
+a.out
+mlx/
+so_long
